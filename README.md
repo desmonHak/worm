@@ -1,2 +1,2 @@
 # worm
-pequno virus gusano
+Un pequeño virus que intenta llenar la memoria ROM.
